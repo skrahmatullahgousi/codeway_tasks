@@ -2,7 +2,7 @@
 package Task3;
 import java.util.*;
 
-public class BankingSystem {
+public class Atminterface {
     public static String name;
     public static int balance=0;
     public static String accno;
