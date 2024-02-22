@@ -1,7 +1,7 @@
 # codeway_tasks
 # Task-1
   import java.util.*;
-public class GuessNumber {
+public class Numbergame {
     public static void timer(){
         try{
             Thread.sleep(500);
